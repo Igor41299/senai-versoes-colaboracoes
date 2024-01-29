@@ -1,3 +1,3 @@
 # seni-versoes-colaboracoes
 
-readme de exemplo
+readme de exemplo / igor
