@@ -2,4 +2,6 @@
 
 readme de exemplo / igor
 
-lembrei do comando: git status
+
+
+o comando era git status
